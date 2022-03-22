@@ -1,6 +1,7 @@
-# preferences_app
+# Preferencias de usario 
 
-A new Flutter project.
+Guarda el genero del usuario y nombre dentro del disposito.
+De igual forma guarda las preferencias de modo dark o ligth en la app.
 
 ## Getting Started
 
